@@ -1,0 +1,6 @@
+pyrogram
+tgcrypto
+schedule
+feedparser
+openai
+requests
